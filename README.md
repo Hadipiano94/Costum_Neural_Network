@@ -4,7 +4,7 @@ but i wrote everything from scratch, not looking at any code.
 
 this is the environment:
 
-<img src="env.PNG">
+<img src="env.PNG" width=60% height=auto>
 
 generations pass and the creatures evolve to make it to the red squere...
 there are options for obstacles too.
